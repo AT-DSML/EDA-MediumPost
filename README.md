@@ -1,2 +1,0 @@
-# EDA-MediumPost
-##### Second Commit
